@@ -217,7 +217,7 @@ const Calender = () => {
                                 {events.description}
                               </div>
                             </div>
-                            <div className="flex flex-row absolute -right-3 bottom-3">
+                            <div className="flex flex-row absolute -right-2 bottom-3">
                               <MdOutlineDelete
                                 onClick={() =>
                                   deletehandler(events.id, currentYear, index)

@@ -58,7 +58,7 @@ export const datas = [
       },
       {
         id: 4,
-        title: "Rakshabandhan",
+        title: "Raksha bandhan",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet nisi at elit venenatis fringilla. Cras ut semper quam, sit.",
         date: "19",
         month: "7",
@@ -135,7 +135,7 @@ export const datas = [
       },
       {
         id: 4,
-        title: "Rakshabandhan",
+        title: "Raksha bandhan",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet nisi at elit venenatis fringilla. Cras ut semper quam, sit..",
         date: "19",
         month: "8",
